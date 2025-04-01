@@ -1,7 +1,7 @@
 {
-    "name": "reactjs-vite-tailwind-vercel",
+    "name": "pitch-perfect-space",
     "version": "1.0.0",
-    "description": "ReactJS app with Vite, Tailwind",
+    "description": "A space game controlled by musical pitch",
     "type": "module",
     "scripts": {
         "dev": "vite",
